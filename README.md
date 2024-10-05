@@ -1,3 +1,28 @@
-Slide:<br>
-Topic 1 Python Programming Essentials https://drive.google.com/file/d/1Opf0X6IoM3LGVc51KM4WImC7e2CL6N8U/view?usp=sharing<br>
-Topic 2 Topic 2 Essential Python Libraries for AI https://drive.google.com/file/d/1t9wNYpeivLG3fMiBEFTjcZcN5Cwhl4gQ/view?usp=sharing
+# Workshop: Python for AI
+
+## Slides:
+1. **Week 01 Topic 01: Python Programming Essentials**  <a href="https://drive.google.com/file/d/16CmWHtzU2ZDEp-a016nQR1qKwYfaJpdR/view?usp=sharing">Click Here</a>
+2. **Week 01 Topic 02: Essential Python Libraries for AI**  <a href="https://drive.google.com/file/d/1HYhZyTxxkomuSTYClRP9QPEn3OlNgxTd/view?usp=sharing">Click Here</a>
+3. **Week 02 Topic 03: Foundations of AI and Computer Vision**  <a href="https://drive.google.com/file/d/1issQIbn3SX1Ai8xSnKCNFGPGu2J4ytpL/view?usp=sharing">Click Here</a> 
+
+---
+
+## Instructors and Teaching Assistants:
+
+### Instructors:
+- Kuncahyo Setyo Nugroho (Week 01 - Week 03)
+- Mahmud Isnan (Week 03)
+
+### Teaching Assistants:
+- Christian Kenneth (Week 01)
+- Matthew Martianus Henry (Week 02)
+
+<p align="center">
+  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2020/03/DLI_Feature_new.png" alt="NVIDIA DLI Logo" width="150">
+  <img src="https://research.binus.ac.id/airdc/wp-content/uploads/sites/18/2020/12/airdc-logo-01.png" alt="AIRDC Logo" width="150">
+</p>
+
+<p align="center">
+  <strong>NVIDIA Artificial Intelligence R&D Center – BINUS University</strong>
+</p>
+
