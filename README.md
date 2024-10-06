@@ -5,7 +5,7 @@
 4. <a href="https://drive.google.com/file/d/1RAp8hgZ_yAEpkEwl_X3pVTOhqVfzply4/view?usp=sharing" target="_blank">Week 02 Topic 04: Convolution Neural Network and Transfer Learning</a>
 
 ---
-## Lab (Google Colab)
+## Lab (Google Colab):
 Don't forget to "Copy to Drive" before running this notebook.
 1. <a href="https://drive.google.com/file/d/1W9hLEzpq8IJLo1enPQjZ5MjjNYjRJJOo/view?usp=sharing" target="_blank">Week 2 Lab 1 - Image Classification with the MNIST Dataset</a>
 2. <a href="https://drive.google.com/file/d/1-ftflMnQerxGinseF0EVo_3QJnQJQwvx/view?usp=sharing" target="_blank">Week 2 Lab 2 - Image Classification of an American Sign Language Dataset</a>
