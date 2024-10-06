@@ -1,5 +1,3 @@
-# Workshop: Python for AI
-
 ## Slides:
 1. **Week 01 Topic 01: Python Programming Essentials**  <a href="https://drive.google.com/file/d/16CmWHtzU2ZDEp-a016nQR1qKwYfaJpdR/view?usp=sharing" target="_blank">Click Here</a>
 2. **Week 01 Topic 02: Essential Python Libraries for AI**  <a href="https://drive.google.com/file/d/1HYhZyTxxkomuSTYClRP9QPEn3OlNgxTd/view?usp=sharing" target="_blank">Click Here</a>
