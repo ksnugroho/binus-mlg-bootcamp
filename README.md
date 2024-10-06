@@ -1,9 +1,10 @@
 # Workshop: Python for AI
 
 ## Slides:
-1. **Week 01 Topic 01: Python Programming Essentials**  <a href="https://drive.google.com/file/d/16CmWHtzU2ZDEp-a016nQR1qKwYfaJpdR/view?usp=sharing">Click Here</a>
-2. **Week 01 Topic 02: Essential Python Libraries for AI**  <a href="https://drive.google.com/file/d/1HYhZyTxxkomuSTYClRP9QPEn3OlNgxTd/view?usp=sharing">Click Here</a>
-3. **Week 02 Topic 03: Foundations of AI and Computer Vision**  <a href="https://drive.google.com/file/d/1issQIbn3SX1Ai8xSnKCNFGPGu2J4ytpL/view?usp=sharing">Click Here</a> 
+1. **Week 01 Topic 01: Python Programming Essentials**  <a href="https://drive.google.com/file/d/16CmWHtzU2ZDEp-a016nQR1qKwYfaJpdR/view?usp=sharing" target="_blank">Click Here</a>
+2. **Week 01 Topic 02: Essential Python Libraries for AI**  <a href="https://drive.google.com/file/d/1HYhZyTxxkomuSTYClRP9QPEn3OlNgxTd/view?usp=sharing" target="_blank">Click Here</a>
+3. **Week 02 Topic 03: Foundations of AI and Computer Vision**  <a href="https://drive.google.com/file/d/1issQIbn3SX1Ai8xSnKCNFGPGu2J4ytpL/view?usp=sharing" target="_blank">Click Here</a>
+4. **Week 02 Topic 03: Foundations of AI and Computer Vision** <a href="https://drive.google.com/file/d/1RAp8hgZ_yAEpkEwl_X3pVTOhqVfzply4/view?usp=sharing" target="_blank">Click Here</a>
 
 ---
 
