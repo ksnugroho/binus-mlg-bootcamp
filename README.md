@@ -7,6 +7,16 @@
 4. **Week 02 Topic 04: Convolution Neural Network and Transfer Learning** <a href="https://drive.google.com/file/d/1RAp8hgZ_yAEpkEwl_X3pVTOhqVfzply4/view?usp=sharing" target="_blank">Click Here</a>
 
 ---
+## Lab (Google Colab)
+Don't forget to "Copy to Drive" before running this notebook.
+1. <a href="https://drive.google.com/file/d/1W9hLEzpq8IJLo1enPQjZ5MjjNYjRJJOo/view?usp=sharing" target="_blank">Week 2 Lab 1 - Image Classification with the MNIST Dataset</a>
+2. <a href="https://drive.google.com/file/d/1-ftflMnQerxGinseF0EVo_3QJnQJQwvx/view?usp=sharing" target="_blank">Week 2 Lab 2 - Image Classification of an American Sign Language Dataset</a>
+3. <a href="https://drive.google.com/file/d/1pIn_sW52ituvfLYhg7Moz5Lmr23UAtDH/view?usp=sharing" target="_blank">Week 2 Lab 3 Image Classification of an ASL Dataset with CNN</a>
+4. <a href="https://drive.google.com/file/d/1XW-W2IDqIlYesylFgTMQhq-ahPw7dccl/view?usp=sharing" target="_blank">Week 2 Lab 4 - ASL Classification with Data Augmentation</a>
+5. <a href="https://drive.google.com/file/d/1npcLQhvYCE1kcZxQ3LXJgsZr4O-Ux1Px/view?usp=sharing" target="_blank">Week 2 Lab 5 - ASL Predictions (Deployment)</a>
+6. <a href="https://drive.google.com/file/d/1My8ND2xeTY5CUNsU_Tf2fl_ymye3N30O/view?usp=sharing" target="_blank">Week 2 Lab 6 - An Automated Doogy Door using Pre Trained Model</a>
+7. <a href="https://drive.google.com/file/d/1at-iu6DvS4m-tAFDBgfof5GQsxCoShiw/view?usp=sharing" target="_blank">Week 2 Lab 7 - Presidential Doggy Door with Transfer Learning</a>
+---
 
 ## Instructors and Teaching Assistants:
 
