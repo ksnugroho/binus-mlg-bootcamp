@@ -3,6 +3,7 @@
 2. <a href="https://drive.google.com/file/d/1HYhZyTxxkomuSTYClRP9QPEn3OlNgxTd/view?usp=sharing" target="_blank">Week 01 Topic 02: Essential Python Libraries for AI</a>
 3. <a href="https://drive.google.com/file/d/1issQIbn3SX1Ai8xSnKCNFGPGu2J4ytpL/view?usp=sharing" target="_blank">Week 02 Topic 03: Foundations of AI and Computer Vision</a>
 4. <a href="https://drive.google.com/file/d/1RAp8hgZ_yAEpkEwl_X3pVTOhqVfzply4/view?usp=sharing" target="_blank">Week 02 Topic 04: Convolution Neural Network and Transfer Learning</a>
+4. <a href="https://drive.google.com/file/d/1RAp8hgZ_yAEpkEwl_X3pVTOhqVfzply4/view?usp=sharing" target="_blank">Week 03 Topic 05: Object Detection using R-CNN</a>
 
 ---
 ## Lab (Google Colab):
