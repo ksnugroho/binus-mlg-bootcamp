@@ -15,6 +15,7 @@ Don't forget to "Copy to Drive" before running this notebook.
 5. <a href="https://drive.google.com/file/d/1npcLQhvYCE1kcZxQ3LXJgsZr4O-Ux1Px/view?usp=sharing" target="_blank">Week 2 Lab 5 - ASL Predictions (Deployment)</a>
 6. <a href="https://drive.google.com/file/d/1My8ND2xeTY5CUNsU_Tf2fl_ymye3N30O/view?usp=sharing" target="_blank">Week 2 Lab 6 - An Automated Doogy Door using Pre Trained Model</a>
 7. <a href="https://drive.google.com/file/d/1at-iu6DvS4m-tAFDBgfof5GQsxCoShiw/view?usp=sharing" target="_blank">Week 2 Lab 7 - Presidential Doggy Door with Transfer Learning</a>
+8. <a href="https://colab.research.google.com/drive/1uHKjoZzbPrpNUBdhp4e35niZ6-LQM53W?usp=drive_link" target="_blank"> Week 3 Lab 1 - Object Detection using R-CNN</a>
 ---
 
 ## Instructors and Teaching Assistants:
